@@ -1,6 +1,6 @@
 ---
 layout: home
 ---
-# About Theme
+# Hey There!
 
 This is my portfolio site. it's under construction. 
