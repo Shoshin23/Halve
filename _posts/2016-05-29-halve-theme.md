@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World.MD"
-date:   2016-05-29
+date: 2016-05-29
 excerpt: "Hello World."
 tag:
 - post
