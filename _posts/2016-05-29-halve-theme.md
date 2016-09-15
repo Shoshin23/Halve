@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Hello World.MD"
-date:   2016-05-15
-excerpt: "A Hello World for my space on the InterWebs."
+date:   2016-09-14
+excerpt: "Hello World!"
 tag:
 - post
 - personal
